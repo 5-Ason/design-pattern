@@ -5,7 +5,7 @@ package simple.shape;
  * Created by Ason on 2017/9/30.
  */
 public interface Shape {
-    public void draw();
+    void draw();
 
-    public void erase();
+    void erase();
 }
