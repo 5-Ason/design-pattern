@@ -14,4 +14,5 @@ design-pattern -- 设计模式
 |    ├── abstract-factory -- 抽象工厂模式
 |    └── singleton-pattern -- 单例模式
 └── structural-patterns  -- 结构型模式
+     └── adapter-pattern -- 适配者模式
 ```

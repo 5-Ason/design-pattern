@@ -2,16 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <artifactId>structural-patterns</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>composite-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>adapter-pattern</module>
-        <module>composite-pattern</module>
-    </modules>
-
+    <description>====组合模式-Composite Pattern====</description>
     <parent>
-        <artifactId>design-pattern</artifactId>
+        <artifactId>structural-patterns</artifactId>
         <groupId>com.ason</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
