@@ -13,6 +13,10 @@ design-pattern -- 设计模式
 |    ├── factory-method -- 工厂方法模式
 |    ├── abstract-factory -- 抽象工厂模式
 |    └── singleton-pattern -- 单例模式
-└── structural-patterns  -- 结构型模式
-     └── adapter-pattern -- 适配者模式
+|── structural-patterns  -- 结构型模式
+|    ├── adapter-pattern -- 适配者模式
+|    ├── facade-factory -- 外观模式
+|    └── proxy-pattern -- 代理模式
+└── behavioral-patterns  -- 行为型模式
+     ├── command-factory -- 命令模式
 ```
