@@ -1,7 +1,7 @@
-# design-pattern(未完成)
+# design-pattern
 
 ## 简介
-* 对设计模式进行总结
+* 对常用设计模式进行总结
 * 每个设计模式都有对应的demo代码
 
 ## 说明
@@ -19,4 +19,5 @@ design-pattern -- 设计模式
 |    └── proxy-pattern -- 代理模式
 └── behavioral-patterns  -- 行为型模式
      ├── command-factory -- 命令模式
+     ├── iterator-factory -- 迭代器模式
 ```
