@@ -20,4 +20,5 @@ design-pattern -- 设计模式
 └── behavioral-patterns  -- 行为型模式
      ├── command-factory -- 命令模式
      ├── iterator-factory -- 迭代器模式
+     └── observer-factory -- 观察者模式
 ```
