@@ -16,6 +16,7 @@ public class Client {
         StockSubject subject = new StockSubject("阿里巴巴");
         subject.setOldPrice(16.4);
         subject.setNewPrice(12.0);
+
         subject.addObserver(observer1);
         subject.addObserver(observer2);
         subject.addObserver(observer3);
